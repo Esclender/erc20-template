@@ -32,7 +32,3 @@ El alcance de este proyecto incluye:
 2. **Configuración**: Establezca la dirección del token, la dirección de retención y el precio inicial.
 3. **Compra de Tokens**: Los usuarios pueden llamar a la función `buy` para comprar tokens enviando Ether.
 4. **Funciones de Administración**: El propietario del contrato puede congelar/descongelar el contrato y establecer precios de tokens.
-
-## Errores de Linter
-
-Hay algunos errores de linter relacionados con las rutas de importación de los contratos de OpenZeppelin. Asegúrese de que las rutas estén configuradas correctamente en su entorno de proyecto. 
